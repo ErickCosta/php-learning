@@ -5,8 +5,9 @@
 
 <?php
 
+/*
 echo "Hello! \n";
-
+*/
 // ... mais código
 
 echo "My first app! \n";
@@ -15,7 +16,7 @@ echo "My first app! \n";
 
 
 if (1 < 2) {
-    echo "<h1>Teste<h1/>";
+    echo "<h1>Teste<h1/>"; # teste
 }else {
     echo "It is small";
 }
